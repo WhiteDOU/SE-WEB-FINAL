@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="11" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="mysql-connector-java-5.1.45-bin.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/soft/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.45-bin.jar!/"/>
+	</lib>
+	<lib name="ognl-2.6.11.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/soft/WebRoot/WEB-INF/lib/ognl-2.6.11.jar!/"/>
+	</lib>
+	<lib name="struts2-core-2.0.11.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/soft/WebRoot/WEB-INF/lib/struts2-core-2.0.11.jar!/"/>
+	</lib>
+	<lib name="commons-logging-1.0.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/soft/WebRoot/WEB-INF/lib/commons-logging-1.0.4.jar!/"/>
+	</lib>
+	<lib name="freemarker-2.3.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/soft/WebRoot/WEB-INF/lib/freemarker-2.3.8.jar!/"/>
+	</lib>
+	<lib name="sqljdbc4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/soft/WebRoot/WEB-INF/lib/sqljdbc4.jar!/"/>
+	</lib>
+	<lib name="xwork-2.0.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/soft/WebRoot/WEB-INF/lib/xwork-2.0.4.jar!/"/>
+	</lib>
+	<levels>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+	</levels>
+</component>
