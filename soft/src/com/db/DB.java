@@ -4,7 +4,7 @@ public class DB {
 		private Connection con;
 		private PreparedStatement pstm;
 		private String user="root";
-		private String password="ablinchao812";
+		private String password="";
 		private String className="com.mysql.jdbc.Driver";
 		private String url="jdbc:mysql://localhost:3306/db_book?characterEncoding=utf-8&useSSL=false";
 		public DB(){
